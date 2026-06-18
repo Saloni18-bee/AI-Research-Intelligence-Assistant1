@@ -95,7 +95,7 @@ AI Response
 
 ### Vector Database
 
-* ChromaDB / FAISS (depending on implementation)
+* FAISS
 
 ### Environment Management
 
@@ -116,8 +116,8 @@ AI-Research-Assistant/
 │   └── index.html
 │
 ├── static/
-│   ├── style.css
-│   └── script.js
+│   ├── hero2.jpg
+│   └── hero3.jpg
 │
 ├── src/
 │   ├── load_and_extract_text.py
